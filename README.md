@@ -1,1 +1,1 @@
-Employee_MAnagement_System
+Employee_Management_System
